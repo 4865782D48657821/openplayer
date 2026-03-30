@@ -36,21 +36,18 @@ Experiments must never break core functionality.
 ## Documentation
 
 Product vision:
-docs/product/vision.md
+[docs/product/vision.md](docs/product/vision.md)
 
 Architecture:
-docs/architecture/system-overview.md
+[docs/architecture/system-overview.md](docs/architecture/system-overview.md)
 
 Tech stack:
-docs/software/tech-stack.md
+[docs/software/tech-stack.md](docs/software/tech-stack.md)
 
 ## Development status
 
 Early architecture phase.
 
-See roadmap:
-docs/roadmap/milestones.md
-
 ## Contributing
 
-See CONTRIBUTING.md
+See [CONTRIBUTING.md](CONTRIBUTING.md)
